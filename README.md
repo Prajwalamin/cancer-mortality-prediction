@@ -24,7 +24,3 @@ This repository contains the code and documentation for a machine learning proje
     ```bash
     pip install -r requirements.txt
     ```
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
